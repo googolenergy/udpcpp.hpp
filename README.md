@@ -1,3 +1,3 @@
 # udpcpp.hpp (1.0)
 
-![Alt text](./images/udpcpp_logo_public.png)
+<img src="image_url" alt="Alt text" width="200">
