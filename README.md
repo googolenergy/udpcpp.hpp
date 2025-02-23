@@ -1,4 +1,4 @@
-#udpcpp.hpp (v1.0)
+# udpcpp.hpp (v1.0)
 
 <img src="./images/udpcpp_logo_public.png" alt="udpcpp_logo_public" width="150" style="margin-right: 15px;">
 <p><b>"udpcpp.hpp"</b> is a C++ library especially made to implement UDP communication in your projects. It provides an easy-to-use interface for sending and receiving UDP packets with minimal setup.
@@ -7,7 +7,7 @@ Currently the <b>initial version 1.0</b> supports sending & listening only to/fo
 
 Download <b>udpcpp.hpp (1.0)</b> <a href="https://drive.google.com/file/d/19bH2PnbeMV1ztyC8UBZ36HehlgtVG70C/view?usp=sharing">here</a>.
 
-##API Docs
+## API Docs
 
 This library is minimal & compact to implement. There are mainly two methods, `udpSend()` and `udpReadNL()`
 <br>
