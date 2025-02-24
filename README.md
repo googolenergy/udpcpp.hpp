@@ -11,7 +11,11 @@ Download <b>udpcpp.hpp (1.0)</b> <a href="https://drive.google.com/file/d/12q1Mp
 
 ## API Docs
 
-This library is minimal & compact to implement. There are mainly two methods, `udpSend()` and `udpReadNL()`.
+This library is minimal & compact to implement.
+
+`udpcpp.cpp` is your entry point.
+
+There are mainly two methods, `udpSend()` and `udpReadNL()`.
 <br>
 1.  `udpSend()` is used to send messages to the server. It takes two parameters, `int port` and `std::string message`. `port` is the nerwork port for which the message is sent to & `message` is a string of the actual message.
 
